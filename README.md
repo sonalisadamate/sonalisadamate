@@ -12,12 +12,16 @@ My focus is on designing **efficient, scalable, and reliable test automation sol
 ---
 
 ## 🛠️ Skills  
-- Selenium  
-- TestNG  
-- Maven  
-- Java  
-- Git  
-- Postman  
+
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" alt="maven" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/cucumber/cucumber/master/media/cucumber.svg" alt="cucumber" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TestNG_Logo.png" alt="testng" width="40" height="40"/>  
+</p>  
 
 ---
 
