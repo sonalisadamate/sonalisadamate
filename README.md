@@ -38,13 +38,16 @@ My focus is on designing **efficient, scalable, and reliable test automation sol
     </td>
   </tr>
 </table>
----
 
 ## 📂 Projects  
 
 ### 🔹 [Selenium-Project](https://github.com/sonalisadamate/Selenium-Project)  
 A comprehensive **Selenium Web Automation Test Suite** for the *FlightBooking platform*.  
 This project covers major functionalities and generates detailed test reports.  
+
+### 🔹 [TestNG-Project](https://github.com/sonalisadamate/TestNG-Project)  
+Automation of key functionalities for the **LoanDepartment Suite** using **TestNG framework**.  
+The project focuses on creating structured, maintainable, and scalable test cases with detailed reporting.  
 
 ---
 
