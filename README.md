@@ -57,8 +57,8 @@ My focus is on creating **scalable, secure, and grounded AI systems** with stron
 ## 📂 Projects  
 
 https://github.com/sonalisadamate/Multi-Modal-Document-Intelligence
-Enterprise multi-modal document intelligence platform that extracts, cites, summarizes, and answers Q&A on PDFs, scans, tables, and images.
-**Tech Stack**: LangChain, Vision LLMs (GPT-4o/Gemini), Multimodal RAG, ChromaDB & Pinecone, PII & Prompt-Injection Guardrails, LangSmith, RAGAS Eval, Streamlit UI.
+
+Enterprise multi-modal document intelligence platform that extracts, cites, summarizes, and answers Q&A on PDFs, scans, tables, and images.**Tech Stack**: LangChain, Vision LLMs (GPT-4o/Gemini), Multimodal RAG, ChromaDB & Pinecone, PII & Prompt-Injection Guardrails, LangSmith, RAGAS Eval, Streamlit UI.
 
 ### 🔹 [Agentic AI Framework](https://github.com/sonalisadamate/Agentic_Ai-Framework)  
 Built a **multi-agent AI automation framework using AutoGen and MCP**, enabling specialized agents for databases, APIs, browser automation, and Excel workflows. Implemented **agent orchestration, reusable Agent Factory patterns, persistent state, context engineering, and assertion-based validation** for scalable autonomous workflows.  
