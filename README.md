@@ -1,43 +1,58 @@
 # Sonali Sadamate  
-### 🚀 Automation Test Engineer  
+### 🤖 AI Engineer  
 
 ---
 
 ## 👩‍💻 About Me  
-I am a **Test Automation Engineer** with over **3.5 years of experience** in web automation testing.  
-I specialize in building robust automation frameworks using **Selenium, TestNG, and BDD with Cucumber**, along with integrating test pipelines in **CI/CD using Jenkins**.  
+I am an **AI Engineer** focused on building practical **Generative AI, RAG, and LLM-powered applications**. I work with modern AI frameworks, embedding models, vector databases, evaluation and observability tools to develop reliable, production-ready AI solutions.  
 
-My focus is on designing **efficient, scalable, and reliable test automation solutions** that help organizations reduce manual testing efforts and deliver high-quality software products faster.  
+My focus is on creating **scalable, secure, and grounded AI systems** with strong retrieval quality, evaluation pipelines, prompt-safety controls, source-backed answers, and human fallback mechanisms.  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ AI Engineering Skills  
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/><br><b>Framework</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/><br><b>Embeddings</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" width="40" height="40" alt="Maven"/><br>Maven
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/><br><b>Embeddings</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB"/><br><b>Vector DB</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman"/><br>Postman
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/><br><b>Vector DB</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/cucumber/cucumber/master/media/cucumber.svg" width="40" height="40" alt="Cucumber"/><br>Cucumber
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/><br><b>Observability</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TestNG_Logo.png" width="40" height="40" alt="TestNG"/><br>TestNG
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/RAGAS-Evaluation-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="RAGAS"/><br><b>Evaluation</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br><b>Backend</b>
     </td>
   </tr>
 </table>
+
+### 🔹 Core Stack
+- **Framework:** LangChain  
+- **Embeddings:** OpenAI `text-embedding-3-small`, Hugging Face `bge-small` / `all-MiniLM`  
+- **Vector Databases:** ChromaDB for local development; Pinecone for deployed production-style projects  
+- **Observability:** LangSmith  
+- **Evaluation:** RAGAS, custom golden datasets, faithfulness tests, and answer-relevance tests  
+- **Backend:** FastAPI  
+- **AI Safety:** Prompt-injection detection, PII masking, source-only answers, and human fallback  
+
+---
 
 ## 📂 Projects  
 
