@@ -56,13 +56,8 @@ My focus is on creating **scalable, secure, and grounded AI systems** with stron
 
 ## 📂 Projects  
 
-### 🔹 [Selenium-Project](https://github.com/sonalisadamate/Selenium-Project)  
-A comprehensive **Selenium Web Automation Test Suite** for the *FlightBooking platform*.  
-This project covers major functionalities and generates detailed test reports.  
-
-### 🔹 [TestNG-Project](https://github.com/sonalisadamate/TestNG-Project)  
-Automation of key functionalities for the **LoanDepartment Suite** using **TestNG framework**.  
-The project focuses on creating structured, maintainable, and scalable test cases with detailed reporting.  
+### 🔹 [Agentic AI Framework](https://github.com/sonalisadamate/Agentic_Ai-Framework)  
+Built a **multi-agent AI automation framework using AutoGen and MCP**, enabling specialized agents for databases, APIs, browser automation, and Excel workflows. Implemented **agent orchestration, reusable Agent Factory patterns, persistent state, context engineering, and assertion-based validation** for scalable autonomous workflows.  
 
 ---
 
