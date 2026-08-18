@@ -49,7 +49,7 @@ My focus is on creating **scalable, secure, and grounded AI systems** with stron
 - **Vector Databases:** ChromaDB for local development; Pinecone for deployed production-style projects  
 - **Observability:** LangSmith  
 - **Evaluation:** RAGAS, custom golden datasets, faithfulness tests, and answer-relevance tests  
-- **Backend:** FastAPI  
+- * Frontend: Streamlit  
 - **AI Safety:** Prompt-injection detection, PII masking, source-only answers, and human fallback  
 
 ---
