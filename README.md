@@ -56,7 +56,7 @@ My focus is on creating **scalable, secure, and grounded AI systems** with stron
 
 ## 📂 Projects  
 
-https://github.com/sonalisadamate/Multi-Modal-Document-Intelligence
+https://github.com/sonalisadamate/Multi-Modal-Document-Intelligence.git
 
 Enterprise multi-modal document intelligence platform that extracts, cites, summarizes, and answers Q&A on PDFs, scans, tables, and images.**Tech Stack**: LangChain, Vision LLMs (GPT-4o/Gemini), Multimodal RAG, ChromaDB & Pinecone, PII & Prompt-Injection Guardrails, LangSmith, RAGAS Eval, Streamlit UI.
 
