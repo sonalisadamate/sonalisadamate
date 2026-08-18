@@ -49,14 +49,14 @@ My focus is on creating **scalable, secure, and grounded AI systems** with stron
 - **Vector Databases:** ChromaDB for local development; Pinecone for deployed production-style projects  
 - **Observability:** LangSmith  
 - **Evaluation:** RAGAS, custom golden datasets, faithfulness tests, and answer-relevance tests  
-- * Frontend: Streamlit  
+- **Frontend: Streamlit  
 - **AI Safety:** Prompt-injection detection, PII masking, source-only answers, and human fallback  
 
 ---
 
 ## 📂 Projects  
 
-### https://github.com/sonalisadamate/Multi-Modal-Document-Intelligence.git
+### 🔹 [Multi-Modal Document Intelligence](https://github.com/sonalisadamate/Multi-Modal-Document-Intelligence)
 
 Enterprise multi-modal document intelligence platform that extracts, cites, summarizes, and answers Q&A on PDFs, scans, tables, and images.**Tech Stack**: LangChain, Vision LLMs (GPT-4o/Gemini), Multimodal RAG, ChromaDB & Pinecone, PII & Prompt-Injection Guardrails, LangSmith, RAGAS Eval, Streamlit UI.
 
