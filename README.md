@@ -38,7 +38,7 @@ My focus is on creating **scalable, secure, and grounded AI systems** with stron
       <img src="https://img.shields.io/badge/RAGAS-Evaluation-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="RAGAS"/><br><b>Evaluation</b>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br><b>Backend</b>
+      <img src=https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) **Frontend**
     </td>
   </tr>
 </table>
